@@ -15,6 +15,6 @@ We gave these out on the weekends leading up to our event with great success.
 
 ![mattvite](https://github.com/endgrid/mattvites/assets/104172903/dc3ad836-0051-4021-8482-260bad3ff8d8)
 
-Please see the app.js and app.html for Node.js source code. Hosted on AWS Lightsail.
+Please see the [app.js](https://github.com/endgrid/mattvites/blob/main/app.js) and [app.html](https://github.com/endgrid/mattvites/blob/main/app.html) for Node.js source code. Hosted on AWS Lightsail.
 
 ![IMG_5942](https://github.com/endgrid/mattvites/assets/104172903/5c99ecc7-5076-48c7-a33f-94fac6b05eda)
